@@ -1,5 +1,6 @@
 {
   "hello": "world",
   "foo", "bar",
-  "big":, "foot"
+  "big": "foot",
+  "small: "world"
 }
